@@ -1,21 +1,17 @@
+Estate Vision – Real Estate Analytics Platform
+Tech Stack: Python, Machine Learning, Data Analysis
 
-Go to Google AI Studio. 
-https://aistudio.google.com/
+Overview
+Developed a real estate analytics system to evaluate property data and assist users in making data-driven property investment decisions.
 
-Open the Dashboard from the left side panel.
-Select Projects.
-Select the Import projects button in the Projects page.
-Search for and select the Google Cloud project you want to import and select the Import button.
+Key Features
+Property value analysis
 
-aet api key
-pip install google-genai
-pip install xlrd==2.0.1
+Real estate market trend insights
 
-python manage.py runserver
+Data visualization for property statistics
 
-http://127.0.0.1:8000/admin/
+Predictive analytics models
 
-python manage.py createsuperuser
-
-admin
-suparco@1
+Source Code
+https://www.mediafire.com/file/og1jp075ri66gb0/ESTATE-Vision-Project-8-OCT-2025.rar/file
